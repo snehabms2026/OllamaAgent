@@ -1,4 +1,4 @@
-Download ollama fro windows
+Download ollama for windows
 verify version thru cmd
 //ollama pull llama3.2
 //ollama run llama3.2   ..test it and say /bye
